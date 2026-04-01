@@ -30,5 +30,6 @@ The goal of this project is to learn more about arrays and matrixes, as well as 
 I'm also hoping to create a more abstract version that can handle nth values for puzzle piece size and range.       
 
 -----------------------------------------------------------------------------------------
-**Thank you visiting this website,**       
+**Thank you visiting this website,**        
 ***Ali Elfeki***   
+echoingfuture@gmail.com
