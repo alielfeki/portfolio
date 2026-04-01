@@ -1,4 +1,3 @@
 # Programming Portfolio
-Welcome to my website.
-
-All of my projects will be stored here.
+Welcome to my programming portfolio.
+You can find my projects on the side.
