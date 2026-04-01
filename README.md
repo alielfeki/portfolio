@@ -2,7 +2,7 @@
 
 I'll be posting my projects here as well as providing detailed descriptions and rationale in a seperate txt file.
        
-Projects will be predominately Python based (for now)
+Projects will be predominately Python based for now, but that may change in the near future.
 
 This website is a little empty, but my first project should be posted soon.
 
@@ -37,4 +37,4 @@ I'm also hoping to create a more abstract version that can handle nth values for
 
 
 ------
-echoingfuture@gmail.com
+contact me at echoingfuture@gmail.com
